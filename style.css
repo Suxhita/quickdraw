@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(217, 227, 236);
+}
+
+h1 {
+    color: rgb(59, 115, 172);
+    background-color: rgb(168, 181, 189);
+}
+
+show_sketch {
+    float: right;
+}
+
+canvas {
+    border: 5px solid salmon;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+p, span
+{
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+#score{
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#time{
+    font-size: 35x;
+    margin-right: 20px;
+    float: right;
+}
